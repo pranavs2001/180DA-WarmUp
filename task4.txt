@@ -1,0 +1,7 @@
+4.1: HSV is typically better. The threshold range I've set for HSV is [100, 25, 25] - [130, 255, 255].
+
+4.2: Changing the lighting did not present a major difference in the tracking ability of my object.
+
+4.3: Increasing the brightness helps my code in being able to track the color.
+
+4.4: 
