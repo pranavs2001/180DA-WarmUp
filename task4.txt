@@ -4,4 +4,4 @@
 
 4.3: Increasing the brightness helps my code in being able to track the color.
 
-4.4: 
+4.4: The color eminating from the phone seems to be more robust than that of the blue t-shirt used to conduct tests.
